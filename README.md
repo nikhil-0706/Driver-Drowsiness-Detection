@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection Using OpenCV and SVM
+# Driver Drowsiness Detection Using OpenCV 
 
 A real-time driver drowsiness detection system that uses computer vision and a Support Vector Machine (SVM) classifier to identify closed eyes and alert the driver when signs of drowsiness are detected.
 
